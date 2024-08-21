@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/bachira-isagi-gif-27552279"  />
+<img align="right" height="150" src="[https://tenor.com/pt-BR/view/bachira-isagi-gif-27552279](https://x.com/i/status/1816189169238172039)"  />
 
 <h2 align="left">I code with</h2>
 
