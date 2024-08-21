@@ -11,7 +11,7 @@
 
 ###
 
-<img align = "right" width = "150" src = "https://pa1.aminoapps.com/7572/7a340cce57ef1d11bfb0f00c09e3c103a4dcb16dr1-216-266_00.gif">
+<img align = "right" width = "150" border-size="10%" src = "https://pa1.aminoapps.com/7572/7a340cce57ef1d11bfb0f00c09e3c103a4dcb16dr1-216-266_00.gif">
 
 <!-- https://i.pinimg.com/736x/0c/0e/27/0c0e2707b16b44940f47611f1ebaf1a4.jpg -->
 
