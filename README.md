@@ -15,6 +15,8 @@
 
 ###
 
+<div class="tenor-gif-embed" data-postid="27552279" data-share-method="host" data-aspect-ratio="1.00629" data-width="100%"><a href="https://tenor.com/view/bachira-isagi-gif-27552279">Bachira Isagi GIF</a>from <a href="https://tenor.com/search/bachira-gifs">Bachira GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h2 align="left">I code with</h2>
 
 ###
