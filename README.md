@@ -13,7 +13,7 @@
 
 <p align="left">✨ Construo códigos oficialmente desde 2021;<br>📚 Atualmente estou aprendendo Java;<br>🎯 Metas: Construir conhecimento.</p>
 
-<img alirng = "right" width = "150" src = "https://i.pinimg.com/736x/0c/0e/27/0c0e2707b16b44940f47611f1ebaf1a4.jpg">
+<img align = "right" width = "150" src = "https://i.pinimg.com/736x/0c/0e/27/0c0e2707b16b44940f47611f1ebaf1a4.jpg">
 
 ###
 
