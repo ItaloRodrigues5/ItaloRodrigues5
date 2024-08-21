@@ -12,7 +12,7 @@
 ###
 
 
-<img align = "right" width = "150" src = "ItaloRodrigues5/bachira-isagi(1).gif">
+<img align = "right" width = "150" src = "ItaloRodrigues5/bachira-isagi (1).gif">
 
 <p align="left">✨ Construo códigos oficialmente desde 2021;<br>
   📚 Atualmente estou aprendendo Java;<br>
