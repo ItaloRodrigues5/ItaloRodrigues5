@@ -15,6 +15,8 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h2 align="left">I code with</h2>
 
 ###
