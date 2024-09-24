@@ -1,5 +1,5 @@
 
-<h1 align="left"> Olá, tudo bem?</h1>
+<h1 align="left">OLÁ, TUDO BEM?</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">SOBRE MIM</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Eu faço códigos com</h2>
+<h2 align="left">EU FAÇO CÓDIGOS COM</h2>
 
 ###
 
