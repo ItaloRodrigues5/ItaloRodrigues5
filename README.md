@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Eu me chamo Italo e sou formado como Técnico de Informática.</p><br>
-<p align="left">Atualmente estou estudando para Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">Atualmente estou estudando para a formação de Técnólogo em Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
